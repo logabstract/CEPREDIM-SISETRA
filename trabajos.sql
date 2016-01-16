@@ -1,0 +1,1 @@
+SELECT t.tra_orden, concat(c.cli_nombre,' - ',d.dep_nombre) FROM trabajos as t, clientes as c , dependencias as d where t.idcliente=c.idcliente and d.iddependencia=c.iddependencia;

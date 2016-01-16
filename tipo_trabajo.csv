@@ -1,0 +1,67 @@
+idtipo_trabajo,tip_nombre
+NULL,"Libro de texto"
+NULL,"Libro de investigación"
+NULL,"Libro de registro"
+NULL,Cuaderno
+NULL,Revista
+NULL,Agenda
+NULL,Almanaque
+NULL,Block
+NULL,Boletín
+NULL,Periódico
+NULL,Manual
+NULL,Catálogo
+NULL,Legajo
+NULL,Brochure
+NULL,Folleto
+NULL,Libreta
+NULL,Memoria
+NULL,Díptico
+NULL,Tríptico
+NULL,Cuadríptico
+NULL,Afiche
+NULL,Afiche-Díptico
+NULL,Afiche-Tríptico
+NULL,"Afiche Cuadríptico"
+NULL,Programa
+NULL,Encarte
+NULL,Volante
+NULL,Carátula
+NULL,Sticker
+NULL,Carné
+NULL,Certificado
+NULL,Constancia
+NULL,Credencial
+NULL,Diploma
+NULL,Fotocheck
+NULL,"Tarjeta de Invitación"
+NULL,"Tarjeta de presentación"
+NULL,"Tarjeta conmemorativa"
+NULL,"Tarjeta de navidad"
+NULL,"Tarjeta de control"
+NULL,Bolsa
+NULL,Caja
+NULL,"Carpeta con bolsillo"
+NULL,"Carpeta sin bolsillo"
+NULL,"Sobres con membrete"
+NULL,"Sobres sin membrete"
+NULL,"Tapas y contratapas"
+NULL,"Tubos potadiploma"
+NULL,CD
+NULL,"Folder de plástico"
+NULL,"Estuche de CD"
+NULL,Cartilla
+NULL,"Hoja membretada"
+NULL,Ticket
+NULL,"Recibo de movilidad"
+NULL,Fichas
+NULL,"Hojas de exámen"
+NULL,FUT
+NULL,Vale
+NULL,"Impresión de carátulas"
+NULL,"Confección de libros"
+NULL,Impresión
+NULL,"Grabado de CD"
+NULL,Banner
+NULL,Serigrafiado
+NULL,OTROS
