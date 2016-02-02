@@ -9,6 +9,12 @@ class Clientes_model extends CI_Model {
 		//Do your magic here
 	}
 
+	public function get_all()
+	{
+		$query = $this->db->get('clientes');
+		return $query->result();
+	}
+
 	public function get_cliente_detalle($id){
 		$this->db->where('idcliente', $id);
 		$result = $this->db->get('clientes');
@@ -18,7 +24,13 @@ class Clientes_model extends CI_Model {
 		} else {
 			return false;
 		}
-	}	
+	}
+
+	public function get_cliente($id) {
+		$this->db->where('idcliente',$id);
+		$query = $this->db->get('clientes');
+		return $query->result();
+	}
 
 	public function get_dependencia($idcliente){
 		$this->db->select('dep_nombre');
